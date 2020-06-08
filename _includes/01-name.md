@@ -1,1 +1,1 @@
-## Kitet: Portfolio :smile:
+## Kitet Portfolio :smile:
