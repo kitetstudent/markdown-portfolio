@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Link to App](https://play.google.com/store/apps/details?id=tulipke.lasainte.bible)
